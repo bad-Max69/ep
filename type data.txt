@@ -1,0 +1,11 @@
+byte
+short
+int 
+float & double
+char
+
+boolean
+long
+
+
+;lkjnlknjlknlknlklknnlkn

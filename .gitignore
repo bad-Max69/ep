@@ -1,3 +1,9 @@
+/Target
+/bin
+
+# db
+*.db
+
 # Compiled class file
 *.class
 
