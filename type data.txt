@@ -1,5 +1,8 @@
 byte
+short
 int 
-float
+float & double
 char
 
+boolean
+long
